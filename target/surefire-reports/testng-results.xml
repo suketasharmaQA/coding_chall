@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6420" started-at="2019-05-12T16:29:13Z" finished-at="2019-05-12T16:29:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6420" started-at="2019-05-12T16:29:13Z" finished-at="2019-05-12T16:29:19Z">
+      <class name="com.application.tests.BaseClassTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.application.tests.BaseClassTest@60addb54]" name="setup" is-config="true" duration-ms="10332" started-at="2019-05-12T16:29:03Z" finished-at="2019-05-12T16:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- com.application.tests.BaseClassTest -->
+      <class name="com.application.tests.HomePageTest">
+        <test-method status="PASS" signature="search_product()[pri:0, instance:com.application.tests.HomePageTest@3f2a3a5]" name="search_product" duration-ms="6400" started-at="2019-05-12T16:29:13Z" finished-at="2019-05-12T16:29:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_product -->
+      </class> <!-- com.application.tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
